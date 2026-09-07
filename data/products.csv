@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price
+P0001,Orion Monitor 001,Electronics,Audio,Orion,14116262.75,16144831.22
+P0002,VivoMax Audio 002,Electronics,Laptop,VivoMax,912026.12,1075563.45
+P0003,VivoMax Smartphone 003,Electronics,Accessories,NusaTech,2717012.25,3047568.19
+P0004,NusaTech Audio 004,Electronics,Monitor,Orion,686327.13,805415.97
+P0005,VivoMax Accessories 005,Electronics,Smartphone,Astra,1967776.83,2254590.31
+P0006,BytePro Monitor 006,Electronics,Laptop,Orion,8118987.55,10121416.08
+P0007,Astra Audio 007,Electronics,Accessories,VivoMax,9793527.78,11584849.26
+P0008,Orion Laptop 008,Electronics,Smartphone,Astra,2030360.78,2341091.95
+P0009,NusaTech Laptop 009,Electronics,Laptop,VivoMax,11391061.22,14165990.17
+P0010,Astra Laptop 010,Electronics,Accessories,Astra,837339.32,988439.46
+P0011,NusaTech Monitor 011,Electronics,Monitor,BytePro,8073668.5,9288491.16
+P0012,NusaTech Laptop 012,Electronics,Monitor,BytePro,607117.74,693929.38
+P0013,BytePro Smartphone 013,Electronics,Smartphone,NusaTech,586215.0,662177.44
+P0014,BytePro Accessories 014,Electronics,Smartphone,VivoMax,1089176.16,1286268.18
+P0015,Astra Accessories 015,Electronics,Smartphone,BytePro,554928.95,646138.92
+P0016,BytePro Monitor 016,Electronics,Audio,Orion,812885.54,946037.06
+P0017,Astra Smartphone 017,Electronics,Audio,VivoMax,540734.34,645538.62
+P0018,NusaTech Laptop 018,Electronics,Laptop,Orion,3768223.33,4544880.16
+P0019,Astra Accessories 019,Electronics,Accessories,VivoMax,1752706.76,1957860.39
+P0020,VivoMax Accessories 020,Electronics,Accessories,NusaTech,742477.2,857704.77
+P0021,Orion Laptop 021,Electronics,Accessories,VivoMax,15312156.76,18497543.82
+P0022,Orion Smartphone 022,Electronics,Smartphone,VivoMax,5494045.91,6548915.43
+P0023,NusaTech Accessories 023,Electronics,Laptop,Orion,761116.39,881452.93
+P0024,BytePro Accessories 024,Electronics,Smartphone,NusaTech,931317.33,1150089.61
+P0025,Orion Audio 025,Electronics,Audio,VivoMax,6520851.77,7290948.11
+P0026,BytePro Audio 026,Electronics,Audio,BytePro,5213611.43,6207337.83
+P0027,VivoMax Smartphone 027,Electronics,Monitor,Astra,3683158.64,4106824.11
+P0028,Astra Smartphone 028,Electronics,Accessories,BytePro,699810.26,819879.98
+P0029,NusaTech Monitor 029,Electronics,Laptop,Astra,3313680.43,3805630.29
+P0030,VivoMax Monitor 030,Electronics,Smartphone,Orion,575129.53,646154.82
+P0031,BytePro Monitor 031,Electronics,Monitor,BytePro,1142098.23,1412245.35
+P0032,Orion Audio 032,Electronics,Smartphone,NusaTech,5492084.49,6511136.31
+P0033,NusaTech Audio 033,Electronics,Laptop,Astra,2343153.05,2647826.86
+P0034,VivoMax Accessories 034,Electronics,Laptop,Orion,4726764.33,5612501.18
+P0035,Astra Smartphone 035,Electronics,Accessories,BytePro,923229.22,1153086.97
+P0036,VivoMax Monitor 036,Electronics,Smartphone,BytePro,7455480.0,8931014.85
+P0037,VivoMax Monitor 037,Electronics,Monitor,Astra,11706271.19,14015287.32
+P0038,Astra Laptop 038,Electronics,Accessories,VivoMax,648961.45,770253.01
+P0039,BytePro Monitor 039,Electronics,Accessories,NusaTech,1744454.31,2054203.56
+P0040,Astra Laptop 040,Electronics,Monitor,VivoMax,709833.61,877907.72
+P0041,BytePro Smartphone 041,Electronics,Accessories,Orion,536756.83,598171.68
+P0042,Orion Laptop 042,Electronics,Monitor,NusaTech,1587204.98,1943758.35
+P0043,NusaTech Smartphone 043,Electronics,Laptop,Orion,1700829.31,2039415.43
+P0044,VivoMax Laptop 044,Electronics,Audio,Orion,9619558.06,10758513.38
+P0045,VivoMax Monitor 045,Electronics,Smartphone,BytePro,420222.98,503322.35
+P0046,BytePro Monitor 046,Electronics,Monitor,Orion,928136.74,1063289.62
+P0047,Astra Laptop 047,Electronics,Laptop,VivoMax,2145450.53,2528911.71
+P0048,VivoMax Smartphone 048,Electronics,Laptop,Orion,764468.52,924089.43
+P0049,NusaTech Laptop 049,Electronics,Laptop,Orion,645945.24,743979.56
+P0050,VivoMax Laptop 050,Electronics,Monitor,NusaTech,7821205.87,9167789.99
+P0051,BytePro Laptop 051,Electronics,Audio,BytePro,450326.67,528431.73
+P0052,NusaTech Laptop 052,Electronics,Smartphone,Orion,4759744.91,5442526.35
+P0053,VivoMax Laptop 053,Electronics,Smartphone,Orion,470537.19,527544.19
+P0054,BytePro Monitor 054,Electronics,Accessories,NusaTech,3140735.19,3623192.35
+P0055,Astra Accessories 055,Electronics,Monitor,NusaTech,1064689.23,1204392.7
+P0056,VivoMax Laptop 056,Electronics,Smartphone,Orion,547785.57,614320.71
+P0057,Astra Monitor 057,Electronics,Accessories,Astra,7589022.19,8564392.83
+P0058,Orion Monitor 058,Electronics,Audio,Astra,11809811.26,13743123.43
+P0059,Orion Laptop 059,Electronics,Audio,Orion,3953597.22,4721326.09
+P0060,Astra Audio 060,Electronics,Audio,Orion,3715047.81,4556655.03
+P0061,NusaTech Smartphone 061,electronics,Accessories,NusaTech,3733959.57,4403162.38
+P0062,BytePro Monitor 062,Electronics,Audio,VivoMax,2408776.67,2943496.76
+P0063,NusaTech Accessories 063,Electronics,Monitor,Orion,3195721.75,3898614.02
+P0064,BytePro Smartphone 064,Electronics,Monitor,BytePro,1438121.57,1694561.81
+P0065,BytePro Laptop 065,Electronics,Monitor,NusaTech,1854699.47,2259287.66
+P0066,NusaTech Laptop 066,Electronics,Monitor,VivoMax,1446544.62,1632816.65
+P0067,Astra Audio 067,Electronics,Laptop,BytePro,6997432.24,8543845.09
+P0068,Astra Laptop 068,Electronics,Smartphone,BytePro,3294536.89,3855530.23
+P0069,NusaTech Smartphone 069,Electronics,Monitor,Orion,1024327.06,1198080.1
+P0070,VivoMax Laptop 070,Electronics,Laptop,Astra,4240330.32,5003387.63
+P0071,Ruma Storage 071,Home & Living,Furniture,Comforta,5621303.73,7344183.2
+P0072,Comforta Home Decor 072,Home & Living,Storage,Comforta,163208.98,218296.26
+P0073,HomePlus Furniture 073,Home & Living,Furniture,HomePlus,446121.84,669127.44
+P0074,HomePlus Home Decor 074,Home & Living,Home Decor,LivingCo,5195140.15,7129859.37
+P0075,Ruma Home Decor 075,Home & Living,Home Decor,Comforta,790158.9,1095842.1
+P0076,HomePlus Furniture 076,Home & Living,Home Decor,Comforta,177627.84,226693.3
+P0077,LivingCo Storage 077,Home & Living,Home Decor,Comforta,203600.42,293842.49
+P0078,LivingCo Home Decor 078,Home & Living,Furniture,Ruma,580311.88,768331.93
+P0079,LivingCo Storage 079,Home & Living,Home Decor,LivingCo,4263246.36,5708906.28
+P0080,HomePlus Home Decor 080,Home & Living,Furniture,Comforta,711895.37,972499.24
+P0081,LivingCo Furniture 081,Home & Living,Home Decor,LivingCo,1143260.05,1658956.42
+P0082,HomePlus Home Decor 082,Home & Living,Storage,HomePlus,444465.13,558635.14
+P0083,HomePlus Storage 083,Home & Living,Kitchen Appliance,HomePlus,90582.08,116003.76
+P0084,Comforta Storage 084,Home & Living,Storage,Ruma,1488769.41,1926504.11
+P0085,Comforta Furniture 085,Home & Living,Furniture,Ruma,2868577.45,3766049.49
+P0086,LivingCo Kitchen Appliance 086,Home & Living,Kitchen Appliance,Comforta,109468.54,161503.7
+P0087,HomePlus Home Decor 087,Home & Living,Furniture,HomePlus,395845.99,582411.17
+P0088,Ruma Storage 088,Home & Living,Kitchen Appliance,HomePlus,2060938.66,2800254.11
+P0089,Ruma Kitchen Appliance 089,Home & Living,Furniture,HomePlus,543656.95,750686.27
+P0090,Comforta Kitchen Appliance 090,Home & Living,Furniture,HomePlus,385181.62,531419.06
+P0091,Ruma Furniture 091,Home & Living,Home Decor,LivingCo,4861111.71,7087776.35
+P0092,LivingCo Home Decor 092,Home & Living,Furniture,Comforta,93615.03,134844.69
+P0093,LivingCo Storage 093,Home & Living,Home Decor,LivingCo,835696.66,1079725.77
+P0094,LivingCo Kitchen Appliance 094,Home & Living,Kitchen Appliance,LivingCo,7017318.01,9801653.33
+P0095,LivingCo Kitchen Appliance 095,Home & Living,Furniture,HomePlus,221275.44,308495.32
+P0096,Comforta Furniture 096,Home & Living,Kitchen Appliance,Ruma,237452.54,333968.01
+P0097,Comforta Furniture 097,Home & Living,Furniture,LivingCo,3390875.99,4279998.24
+P0098,Comforta Home Decor 098,Home & Living,Home Decor,Comforta,11905091.96,14884095.22
+P0099,LivingCo Storage 099,Home & Living,Storage,Ruma,1068586.18,1374036.41
+P0100,HomePlus Furniture 100,Home & Living,Kitchen Appliance,HomePlus,10691084.29,13448603.96
+P0101,Comforta Kitchen Appliance 101,Home & Living,Home Decor,Ruma,10440335.52,13885850.56
+P0102,LivingCo Storage 102,Home & Living,Furniture,HomePlus,1275290.32,1890179.09
+P0103,HomePlus Home Decor 103,Home & Living,Furniture,HomePlus,2170353.14,3066943.68
+P0104,Ruma Kitchen Appliance 104,Home & Living,Home Decor,LivingCo,85545.09,108413.05
+P0105,LivingCo Furniture 105,Home & Living,Furniture,Comforta,2019502.75,2527361.08
+P0106,HomePlus Home Decor 106,Home & Living,Furniture,HomePlus,7939147.12,11952653.79
+P0107,Ruma Home Decor 107,Home & Living,Home Decor,LivingCo,2296983.22,3470584.03
+P0108,Ruma Kitchen Appliance 108,Home & Living,Storage,Comforta,2969966.9,4029063.57
+P0109,HomePlus Storage 109,Home & Living,Kitchen Appliance,LivingCo,917178.7,1255352.01
+P0110,HomePlus Kitchen Appliance 110,Home & Living,Kitchen Appliance,Ruma,693707.8,1030137.38
+P0111,Comforta Home Decor 111,Home & Living,Storage,HomePlus,199535.97,298567.14
+P0112,LivingCo Home Decor 112,Home & Living,Storage,LivingCo,537681.47,776022.05
+P0113,Comforta Home Decor 113,Home & Living,Storage,HomePlus,157671.52,201755.03
+P0114,Comforta Home Decor 114,Home & Living,Storage,LivingCo,1336065.85,1898900.07
+P0115,HomePlus Storage 115,Home & Living,Kitchen Appliance,Comforta,1167377.86,1594124.06
+P0116,Ruma Home Decor 116,Home & Living,Furniture,LivingCo,255958.97,390750.98
+P0117,Comforta Storage 117,Home & Living,Storage,Comforta,9843143.02,13275352.14
+P0118,Ruma Storage 118,Home & Living,Storage,LivingCo,111716.01,167412.04
+P0119,LivingCo Kitchen Appliance 119,Home & Living,Kitchen Appliance,LivingCo,262402.72,355258.02
+P0120,Comforta Storage 120,Home & Living,Home Decor,Comforta,174669.6,264907.96
+P0121,Loka Apparel 121,Fashion,Accessories,Mode,294490.03,474947.57
+P0122,Urban Footwear 122,Fashion,Accessories,Mode,1032437.93,2001601.79
+P0123,Mode Footwear 123,Fashion,Bags,Loka,119940.33,227141.16
+P0124,Urban Accessories 124,Fashion,Apparel,Stride,83380.9,132037.58
+P0125,Mode Apparel 125,Fashion,Apparel,Mode,30289.96,58873.68
+P0126,Loka Accessories 126,fashion,Apparel,Loka,1214055.51,1798040.76
+P0127,Loka Accessories 127,Fashion,Apparel,Loka,1320170.83,2461905.19
+P0128,Stride Accessories 128,Fashion,Bags,Stride,395038.28,593819.44
+P0129,Loka Footwear 129,Fashion,Bags,Stride,81273.24,155495.99
+P0130,Stride Bags 130,Fashion,Apparel,Urban,566542.33,1111889.62
+P0131,Loka Apparel 131,Fashion,Apparel,Loka,176014.91,295207.53
+P0132,Loka Bags 132,Fashion,Bags,Stride,1414543.1,2056226.65
+P0133,Mode Footwear 133,Fashion,Bags,Urban,528427.11,820462.39
+P0134,Urban Accessories 134,Fashion,Apparel,Mode,229266.72,372897.39
+P0135,Urban Footwear 135,Fashion,Apparel,Urban,186443.21,335823.17
+P0136,Stride Accessories 136,Fashion,Accessories,Stride,610120.01,1166513.42
+P0137,Urban Accessories 137,Fashion,Bags,Loka,473696.13,938945.57
+P0138,Loka Apparel 138,Fashion,Accessories,Urban,1417401.98,2092681.75
+P0139,Urban Accessories 139,Fashion,Accessories,Stride,94821.26,141184.76
+P0140,Stride Footwear 140,Fashion,Footwear,Mode,148969.08,215170.84
+P0141,Urban Accessories 141,Fashion,Footwear,Urban,126690.48,197373.3
+P0142,Mode Bags 142,Fashion,Bags,Mode,349959.28,586159.33
+P0143,Mode Footwear 143,Fashion,Apparel,Loka,1613968.04,2500100.11
+P0144,Urban Accessories 144,Fashion,Accessories,Loka,64670.8,102176.63
+P0145,Stride Footwear 145,Fashion,Accessories,Loka,1054418.05,1669163.97
+P0146,Loka Footwear 146,Fashion,Apparel,Mode,34462.45,55926.23
+P0147,Mode Footwear 147,Fashion,Accessories,Urban,428681.66,661966.79
+P0148,Loka Accessories 148,Fashion,Apparel,Loka,85540.55,164400.84
+P0149,Mode Footwear 149,Fashion,Apparel,Mode,46835.29,83884.81
+P0150,Urban Bags 150,Fashion,Footwear,Loka,140236.6,276139.44
+P0151,Urban Footwear 151,Fashion,Apparel,Stride,1913845.16,2983207.37
+P0152,Urban Apparel 152,Fashion,Apparel,Mode,741157.06,1310808.64
+P0153,Mode Apparel 153,Fashion,Accessories,Urban,318679.04,555393.97
+P0154,Loka Apparel 154,Fashion,Footwear,Loka,90912.7,140471.4
+P0155,Mode Footwear 155,Fashion,Accessories,Urban,79286.52,150757.72
+P0156,Mode Footwear 156,Fashion,Footwear,Loka,52483.34,99231.26
+P0157,Stride Accessories 157,Fashion,Apparel,Stride,308416.74,463617.72
+P0158,Loka Apparel 158,Fashion,Footwear,Loka,1745055.05,2831814.83
+P0159,Stride Accessories 159,Fashion,Apparel,Mode,32379.24,53593.79
+P0160,Mode Bags 160,Fashion,Apparel,Mode,592126.26,914944.44
+P0161,Loka Apparel 161,Fashion,Bags,Urban,1349686.11,2029240.82
+P0162,Urban Accessories 162,Fashion,Accessories,Mode,42571.54,75685.5
+P0163,Loka Bags 163,Fashion,Bags,Loka,303317.6,553230.37
+P0164,Mode Bags 164,Fashion,Footwear,Urban,106940.97,159980.74
+P0165,Stride Accessories 165,Fashion,Apparel,Mode,404173.27,651853.84
+P0166,Loka Bags 166,Fashion,Footwear,Urban,667826.64,986037.64
+P0167,Mode Footwear 167,Fashion,Bags,Loka,940725.12,1536234.91
+P0168,Urban Footwear 168,Fashion,Bags,Stride,149483.46,249476.05
+P0169,Stride Accessories 169,Fashion,Accessories,Urban,188192.6,291343.85
+P0170,Loka Bags 170,Fashion,Footwear,Loka,47074.69,77849.34
+P0171,Mode Footwear 171,Fashion,Apparel,Loka,77750.13,146726.75
+P0172,Urban Apparel 172,Fashion,Accessories,Mode,170768.44,273313.73
+P0173,Urban Accessories 173,Fashion,Footwear,Mode,1150186.66,1887474.72
+P0174,Stride Apparel 174,Fashion,Accessories,Mode,340900.49,653210.29
+P0175,Mode Apparel 175,Fashion,Footwear,Urban,368182.29,541485.01
+P0176,Loka Footwear 176,Fashion,Apparel,Mode,1899669.96,2730585.69
+P0177,Urban Accessories 177,Fashion,Footwear,Mode,1190024.47,1734843.47
+P0178,Stride Bags 178,Fashion,Footwear,Stride,344847.75,645092.45
+P0179,Urban Accessories 179,Fashion,Accessories,Loka,1005800.44,1857753.72
+P0180,Loka Bags 180,Fashion,Apparel,Loka,298964.45,559433.74
+P0181,Glow Haircare 181,Beauty,Skincare,Aurea,380284.93,540436.2
+P0182,Pure Fragrance 182,Beauty,Haircare,Glow,54381.99,90913.84
+P0183,Lumi Skincare 183,Beauty,Skincare,Glow,1263252.51,1843820.82
+P0184,Lumi Haircare 184,Beauty,Skincare,Lumi,1084880.46,1531115.01
+P0185,Glow Skincare 185,Beauty,Skincare,Aurea,29053.23,38899.8
+P0186,Aurea Skincare 186,Beauty,Haircare,Pure,399728.63,553298.04
+P0187,Lumi Makeup 187,Beauty,Fragrance,Glow,133695.36,228325.72
+P0188,Lumi Makeup 188,Beauty,Makeup,Pure,142390.71,203585.03
+P0189,Aurea Makeup 189,Beauty,Fragrance,Aurea,310972.62,420481.11
+P0190,Glow Fragrance 190,Beauty,Haircare,Glow,511918.33,727766.93
+P0191,Glow Skincare 191,Beauty,Haircare,Lumi,85349.57,125695.67
+P0192,Pure Fragrance 192,Beauty,Skincare,Lumi,21401.98,34206.34
+P0193,Aurea Makeup 193,Beauty,Haircare,Glow,479320.12,677197.81
+P0194,Glow Makeup 194,Beauty,Makeup,Pure,473591.15,821296.7
+P0195,Glow Fragrance 195,Beauty,Fragrance,Glow,163192.83,237425.71
+P0196,Lumi Fragrance 196,Beauty,Haircare,Aurea,1121660.12,1804375.86
+P0197,Aurea Makeup 197,Beauty,Haircare,Aurea,98786.53,146148.12
+P0198,Lumi Skincare 198,Beauty,Fragrance,Lumi,208583.48,285644.08
+P0199,Glow Haircare 199,Beauty,Fragrance,Glow,622192.17,831981.76
+P0200,Aurea Skincare 200,Beauty,Haircare,Glow,72551.15,102624.89
+P0201,Aurea Skincare 201,Beauty,Haircare,Lumi,32534.59,44867.21
+P0202,Pure Haircare 202,Beauty,Fragrance,Aurea,310165.81,516858.53
+P0203,Aurea Fragrance 203,Beauty,Makeup,Lumi,540731.73,844327.99
+P0204,Aurea Fragrance 204,Beauty,Haircare,Lumi,84564.05,151625.59
+P0205,Lumi Skincare 205,Beauty,Haircare,Glow,717911.05,1157426.15
+P0206,Glow Haircare 206,Beauty,Skincare,Lumi,80748.56,118171.93
+P0207,Lumi Fragrance 207,Beauty,Fragrance,Lumi,1014198.14,1719728.27
+P0208,Aurea Fragrance 208,Beauty,Haircare,Pure,396314.71,690110.56
+P0209,Glow Haircare 209,Beauty,Fragrance,Glow,1040334.51,1785039.17
+P0210,Aurea Makeup 210,Beauty,Fragrance,Glow,671960.8,1079274.03
+P0211,Lumi Haircare 211,Beauty,Haircare,Lumi,989693.92,1688449.37
+P0212,Lumi Haircare 212,Beauty,Fragrance,Lumi,19797.96,30346.19
+P0213,Aurea Makeup 213,Beauty,Haircare,Aurea,108948.91,157590.84
+P0214,Pure Haircare 214,Beauty,Makeup,Lumi,196404.86,346475.36
+P0215,Lumi Haircare 215,Beauty,Skincare,Glow,742664.12,999640.96
+P0216,Aurea Skincare 216,Beauty,Skincare,Lumi,82727.87,135302.63
+P0217,Pure Fragrance 217,Beauty,Skincare,Glow,23910.13,33620.57
+P0218,Aurea Makeup 218,Beauty,Makeup,Pure,766938.29,1315027.79
+P0219,Lumi Makeup 219,Beauty,Fragrance,Pure,1022735.86,1805060.55
+P0220,Pure Makeup 220,Beauty,Makeup,Glow,857391.75,1393586.49
+P0221,Aurea Haircare 221,Beauty,Skincare,Aurea,150237.21,252548.24
+P0222,Aurea Makeup 222,Beauty,Fragrance,Lumi,97179.55,146119.04
+P0223,Lumi Fragrance 223,Beauty,Haircare,Lumi,324711.01,500060.03
+P0224,Aurea Fragrance 224,Beauty,Haircare,Pure,33948.11,55088.92
+P0225,Glow Skincare 225,Beauty,Skincare,Lumi,71304.84,101847.76
+P0226,Trail Sportswear 226,Sports,Footwear,Trail,72972.76,116263.23
+P0227,Motion Outdoor 227,Sports,Outdoor,Active,357389.01,530429.77
+P0228,Peak Outdoor 228,Sports,Equipment,Active,167025.26,252998.18
+P0229,Active Equipment 229,Sports,Footwear,Trail,236105.93,323169.24
+P0230,Active Outdoor 230,Sports,Equipment,Active,90277.16,136824.33
+P0231,Active Sportswear 231,Sports,Footwear,Trail,2112639.67,2944513.21
+P0232,Motion Sportswear 232,Sports,Sportswear,Trail,2852038.23,4700740.83
+P0233,Trail Footwear 233,Sports,Footwear,Active,1117903.66,1552978.08
+P0234,Active Outdoor 234,Sports,Footwear,Peak,653056.81,1007024.79
+P0235,Active Outdoor 235,Sports,Equipment,Active,64752.75,100875.17
+P0236,Motion Outdoor 236,Sports,Sportswear,Motion,129693.47,192175.39
+P0237,Trail Equipment 237,Sports,Equipment,Motion,1353988.21,1990838.48
+P0238,Peak Equipment 238,Sports,Equipment,Motion,835980.49,1120186.03
+P0239,Trail Footwear 239,Sports,Outdoor,Motion,1900041.88,2643173.46
+P0240,Peak Outdoor 240,Sports,Equipment,Motion,606382.79,876127.33
+P0241,Peak Outdoor 241,Sports,Footwear,Trail,485076.07,667092.72
+P0242,Peak Outdoor 242,Sports,Sportswear,Trail,546004.41,906189.5
+P0243,Peak Equipment 243,Sports,Sportswear,Motion,123853.16,173463.43
+P0244,Motion Outdoor 244,Sports,Outdoor,Peak,64197.68,89996.76
+P0245,Active Footwear 245,Sports,Footwear,Active,912096.99,1223298.07
+P0246,Trail Equipment 246,Sports,Footwear,Trail,47083.56,77020.08
+P0247,Active Footwear 247,Sports,Outdoor,Peak,406466.01,593812.7
+P0248,Motion Equipment 248,Sports,Footwear,Active,824960.88,1143032.32
+P0249,Peak Outdoor 249,Sports,Outdoor,Active,843827.59,1333486.95
+P0250,Peak Outdoor 250,Sports,Outdoor,Trail,2953656.19,4143123.58
+P0251,Peak Equipment 251,Sports,Sportswear,Peak,305351.85,414074.46
+P0252,Peak Footwear 252,Sports,Outdoor,Trail,89021.94,139537.81
+P0253,Trail Sportswear 253,Sports,Sportswear,Motion,1866730.12,2734669.16
+P0254,Peak Footwear 254,Sports,Footwear,Trail,1997287.4,2919559.95
+P0255,Motion Footwear 255,Sports,Sportswear,Motion,147902.71,235192.58
+P0256,Peak Sportswear 256,Sports,Equipment,Active,3030055.77,4622176.1
+P0257,Motion Sportswear 257,Sports,Sportswear,Peak,167946.89,259940.56
+P0258,Motion Outdoor 258,Sports,Outdoor,Active,1031237.5,1486784.43
+P0259,Motion Equipment 259,Sports,Equipment,Peak,543893.44,820858.58
+P0260,Peak Equipment 260,Sports,Sportswear,Peak,431143.02,606943.37
+P0261,DeskMate Storage 261,Office Supplies,Printer Supplies,Write,27407.22,41380.99
+P0262,OfficePro Desk 262,Office Supplies,Printer Supplies,OfficePro,158934.95,209712.57
+P0263,OfficePro Printer Supplies 263,Office Supplies,Stationery,DeskMate,952546.61,1232334.95
+P0264,Write Storage 264,Office Supplies,Storage,OfficePro,797742.73,999410.09
+P0265,Write Printer Supplies 265,Office Supplies,Storage,DeskMate,1139441.65,1567869.08
+P0266,Write Storage 266,Office Supplies,Storage,Write,1982301.81,2556626.41
+P0267,Write Storage 267,Office Supplies,Storage,Write,18015.57,26881.34
+P0268,Write Stationery 268,Office Supplies,Desk,OfficePro,14946.37,19423.65
+P0269,Write Desk 269,Office Supplies,Desk,NusaOffice,81707.41,125063.28
+P0270,DeskMate Storage 270,Office Supplies,Printer Supplies,NusaOffice,128811.84,165509.71
+P0271,DeskMate Desk 271,Office Supplies,Storage,Write,1480721.74,1908281.28
+P0272,Write Desk 272,Office Supplies,Stationery,Write,252111.53,327180.52
+P0273,Write Stationery 273,Office Supplies,Desk,Write,21825.21,33433.78
+P0274,DeskMate Storage 274,Office Supplies,Storage,DeskMate,21207.96,30246.42
+P0275,DeskMate Desk 275,Office Supplies,Desk,NusaOffice,237023.91,298214.48
+P0276,OfficePro Stationery 276,Office Supplies,Stationery,DeskMate,352329.84,455578.31
+P0277,OfficePro Printer Supplies 277,Office Supplies,Storage,NusaOffice,23106.31,34089.59
+P0278,OfficePro Desk 278,Office Supplies,Storage,Write,1590807.6,2360211.39
+P0279,OfficePro Printer Supplies 279,Office Supplies,Desk,OfficePro,1148396.04,1499679.0
+P0280,NusaOffice Storage 280,Office Supplies,Desk,OfficePro,300703.59,404335.66
+P0281,Write Desk 281,Office Supplies,Storage,DeskMate,20546.58,30877.37
+P0282,OfficePro Desk 282,Office Supplies,Stationery,OfficePro,588495.41,826675.63
+P0283,NusaOffice Stationery 283,Office Supplies,Desk,DeskMate,62086.9,83267.22
+P0284,Write Printer Supplies 284,Office Supplies,Stationery,Write,647952.02,960727.78
+P0285,OfficePro Desk 285,Office Supplies,Desk,Write,114631.95,159094.09
+P0286,Write Storage 286,Office Supplies,Desk,OfficePro,2109792.29,2943183.59
+P0287,Write Stationery 287,Office Supplies,Printer Supplies,OfficePro,2024963.77,2800596.32
+P0288,NusaOffice Desk 288,Office Supplies,Printer Supplies,Write,26118.38,33560.36
+P0289,OfficePro Printer Supplies 289,Office Supplies,Stationery,OfficePro,226083.62,341257.86
+P0290,Write Storage 290,Office Supplies,Printer Supplies,DeskMate,789200.84,1175239.04
+P0291,DeskMate Stationery 291,Office Supplies,Printer Supplies,NusaOffice,157166.96,198213.93
+P0292,DeskMate Stationery 292,Office Supplies,Desk,DeskMate,14094.97,17793.07
+P0293,Write Stationery 293,Office Supplies,Stationery,Write,1476010.05,2012918.34
+P0294,OfficePro Printer Supplies 294,Office Supplies,Stationery,DeskMate,660911.45,891825.13
+P0295,DeskMate Printer Supplies 295,Office Supplies,Desk,Write,64787.72,97842.84
+P0296,Write Desk 296,Office Supplies,Desk,DeskMate,828728.93,1271408.74
+P0297,NusaOffice Storage 297,Office Supplies,Storage,NusaOffice,13851.81,18368.5
+P0298,DeskMate Desk 298,Office Supplies,Stationery,DeskMate,147591.05,213382.76
+P0299,OfficePro Printer Supplies 299,Office Supplies,Storage,DeskMate,11285.75,14121.02
+P0300,DeskMate Stationery 300,Office Supplies,Storage,Write,1273833.82,1810512.17

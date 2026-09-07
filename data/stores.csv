@@ -1,0 +1,32 @@
+store_id,store_name,channel,city,region,store_type
+S001,NusaMart Central Jakarta 1,Physical Store,Central Jakarta,Jakarta,Flagship
+S002,NusaMart Central Jakarta 2,Physical Store,Central Jakarta,Jakarta,Flagship
+S003,NusaMart South Jakarta 3,Physical Store,South Jakarta,Jakarta,Standard
+S004,NusaMart Central Jakarta 4,Physical Store,Central Jakarta,Jakarta,Flagship
+S005,NusaMart South Jakarta 5,Physical Store,South Jakarta,Jakarta,Standard
+S006,NusaMart West Jakarta 6,Physical Store,West Jakarta,Jakarta,Flagship
+S007,NusaMart North Jakarta 7,Physical Store,North Jakarta,Jakarta,Standard
+S008,NusaMart Central Jakarta 8,Physical Store,Central Jakarta,Jakarta,Standard
+S009,NusaMart Depok 1,Physical Store,Depok,West Java,Flagship
+S010,NusaMart Cimahi 2,Physical Store,Cimahi,West Java,Flagship
+S011,NusaMart Cimahi 3,Physical Store,Cimahi,West Java,Flagship
+S012,NusaMart Depok 4,Physical Store,Depok,West Java,Flagship
+S013,NusaMart Bekasi 5,Physical Store,Bekasi,West Java,Standard
+S014,NusaMart Depok 6,Physical Store,Depok,West Java,Standard
+S015,NusaMart Magelang 1,Physical Store,Magelang,Central Java,Flagship
+S016,NusaMart Tegal 2,Physical Store,Tegal,Central Java,Flagship
+S017,NusaMart Magelang 3,Physical Store,Magelang,Central Java,Standard
+S018,NusaMart Surakarta 4,Physical Store,Surakarta,Central Java,Standard
+S019,NusaMart Kediri 1,Physical Store,Kediri,East Java,Flagship
+S020,NusaMart Jember 2,Physical Store,Jember,East Java,Standard
+S021,NusaMart Surabaya 3,Physical Store,Surabaya,East Java,Flagship
+S022,NusaMart Jember 4,Physical Store,Jember,East Java,Standard
+S023,NusaMart Sidoarjo 5,Physical Store,Sidoarjo,East Java,Standard
+S024,NusaMart Padang 1,Physical Store,Padang,Sumatra,Flagship
+S025,NusaMart Medan 2,Physical Store,Medan,Sumatra,Flagship
+S026,NusaMart Palembang 3,Physical Store,Palembang,Sumatra,Flagship
+S027,NusaMart Banjarmasin 1,Physical Store,Banjarmasin,Kalimantan,Flagship
+S028,NusaMart Banjarmasin 2,Physical Store,Banjarmasin,Kalimantan,Standard
+S029,NusaMart Palu 1,Physical Store,Palu,Sulawesi,Flagship
+S030,NusaMart Palu 2,Physical Store,Palu,Sulawesi,Standard
+S031,NusaMart Online,Online,Jakarta,Jakarta,Warehouse
