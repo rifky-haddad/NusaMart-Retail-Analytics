@@ -494,6 +494,13 @@ NusaMart-Retail-Analytics/
 ├── excel/
 │   └── NusaMart_Retail_Analysis.xlsx
 │
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── stores.csv
+│   ├── orders.csv
+│   └── order_details.csv
+│
 └── images/
     └── dashboard_preview.png
 ```
