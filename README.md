@@ -494,9 +494,6 @@ NusaMart-Retail-Analytics/
 ├── excel/
 │   └── NusaMart_Retail_Analysis.xlsx
 │
-├── python/
-│   └── NusaMart_Python_Analysis.ipynb
-│
 └── images/
     └── dashboard_preview.png
 ```
